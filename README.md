@@ -1,4 +1,5 @@
-# 🌾 Farm Land Analysis: Agricultural Semantic Segmentation
+# 🌾 Farm Land Analysis: AI-Driven Disaster Assessment
+
 
 **Project Focus:** Semantic Segmentation for Post-Disaster Assessment & Agricultural Monitoring in Nepal.
 #### 🔗 Problem Statement
